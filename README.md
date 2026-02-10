@@ -2,10 +2,8 @@
 
 ## Student Information
 - **Student Name:** Sizwayo Mpande  
-- **Student ID:** [Your ID]  
-- **GitHub Repository:** [Paste your repository link here]
-
----
+- **Student ID:** 2512824411  
+- **GitHub Repository:** https://github.com/12sizwayo/Kwacha-car-sales.git
 
 ## Project Overview
 This project is a personal website created using **only HTML**, as required by the HTML Website Development Assignment.  
